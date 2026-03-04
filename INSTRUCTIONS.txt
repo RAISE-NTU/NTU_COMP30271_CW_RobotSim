@@ -1,15 +1,13 @@
 # NTU_COMP30271_CW_RobotSim Execution Instructions
 
 ## 1. Build and Source
-# Run these commands from the root of the NTU_COMP30271_CW_RobotSim workspace
 cd ros2_ws/
 colcon build --symlink-install
 source install/setup.bash
 
 ## 2. Individual Components (Testing Step-by-Step)
-# Open a new terminal for each step and remember to 'source install/setup.bash' in each.
 
-# Step A: Start Simulation Environment (Gazebo + World)
+# Step A: Start Simulation Environment
 ros2 launch ntu_robotsim cwmaze.launch.py
 
 # Step B: Spawn the Robot (Atlas)
