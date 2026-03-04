@@ -17,8 +17,6 @@ def generate_launch_description():
             output='screen',
             parameters=[
                 {'odom_topic': '/atlas/odom_ground_truth'},
-                {'frame_id': 'odom'},
-                {'child_frame_id': 'atlas/base_link'},
                 {'use_sim_time': True},
             ],
             arguments=['--ros-args', '--log-level', LaunchConfiguration('log_level')]
