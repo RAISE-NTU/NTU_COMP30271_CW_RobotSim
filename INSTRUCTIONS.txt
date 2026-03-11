@@ -1,0 +1,36 @@
+# NTU_COMP30271_CW_RobotSim Execution Instructions
+
+## 1. Build and Source
+cd ros2_ws/
+colcon build --symlink-install
+source install/setup.bash
+
+## 2. Individual Components (Testing Step-by-Step)
+
+# Step A: Start Simulation Environment
+ros2 launch ntu_robotsim cwmaze.launch.py
+
+# Step B: Spawn the Robot (Atlas)
+ros2 launch ntu_robotsim single_robot_sim.launch.py
+
+# Step C: Ground Truth Odometry to TF Broadcaster
+ros2 launch odom_to_tf_ros2 atlas_odom_to_tf.launch.py
+
+# Step D: OctoMap Server (3D Mapping)
+ros2 launch octomap_server2 octomap_filtered.launch.py
+
+# Step E: RViz2 Visualization
+ros2 run rviz2 rviz2 -d $(ros2 pkg prefix ntu_robotsim)/share/ntu_robotsim/config/single_robot.rviz
+
+# Step F: Nav2 Navigation Stack
+ros2 launch nav2_bringup navigation_launch.py params_file:=$(ros2 pkg prefix ntu_robotsim)/share/ntu_robotsim/config/nav2_params.yaml use_sim_time:=true
+
+# Step G: Static Map-to-Odom Transform
+ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 map atlas/odom
+
+# Step H: Keyboard Teleop (Manual Control)
+ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -r /cmd_vel:=/atlas/cmd_vel
+
+## 4. Autonomous Exploration
+# Once the unified system is running, you can start autonomous mapping:
+ros2 launch ntu_robotsim explore.launch.py
