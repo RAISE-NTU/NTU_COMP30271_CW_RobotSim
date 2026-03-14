@@ -109,8 +109,8 @@ def generate_launch_description():
                     FindPackageShare('yolo_bringup'), '/launch/yolo.launch.py'
                 ]),
                 launch_arguments={
-                    'model': '/home/ntu-user/ros2_ws/custom_models/best2.pt',
-                    'device': 'cpu',
+                    'model': '/home/ntu-user/ros2_ws/custom_models/best_nano.pt',
+                    'device': 'cuda:0',
                     'threshold': '0.5',
                     'input_image_topic': '/atlas/rgbd_camera/image',
                 }.items()
