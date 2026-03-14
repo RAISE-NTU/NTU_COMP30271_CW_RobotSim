@@ -1,0 +1,856 @@
+============================================================
+  YOLO Detection Log
+  Started : 2026-03-14 16:37:15
+  Min Conf: 0.5
+============================================================
+
+[16:37:15.659] Frame #1 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:15.845] Frame #2 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:16.068] Frame #3 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:16.275] Frame #4 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:16.458] Frame #5 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.62  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:16.670] Frame #6 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.81  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:16.881] Frame #7 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.84  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.62  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:17.074] Frame #8 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:17.275] Frame #9 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:17.483] Frame #10 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.88  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.81  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:17.705] Frame #11 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:17.919] Frame #12 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=36x58
+  [4] Orange               conf=0.84  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x60
+  Summary: Orange:5
+
+[16:37:18.092] Frame #13 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x60
+  Summary: Orange:5
+
+[16:37:18.307] Frame #14 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x49
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.80  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:18.525] Frame #15 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.88  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=36x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x60
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:18.683] Frame #16 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(453, 121)  size=23x59
+  Summary: Orange:5
+
+[16:37:18.907] Frame #17 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=23x59
+  Summary: Orange:5
+
+[16:37:19.096] Frame #18 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x59
+  [5] Orange               conf=0.60  bbox=(453, 121)  size=23x59
+  Summary: Orange:5
+
+[16:37:19.288] Frame #19 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.61  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:19.501] Frame #20 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.61  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:19.699] Frame #21 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.61  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:19.903] Frame #22 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.61  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:20.096] Frame #23 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:20.308] Frame #24 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:20.515] Frame #25 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:20.711] Frame #26 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:20.909] Frame #27 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:21.100] Frame #28 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x59
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:21.337] Frame #29 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:21.506] Frame #30 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.81  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:21.707] Frame #31 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:21.923] Frame #32 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:22.129] Frame #33 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:22.324] Frame #34 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=36x59
+  [5] Orange               conf=0.60  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:22.542] Frame #35 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.84  bbox=(448, 121)  size=36x58
+  [4] Orange               conf=0.84  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.57  bbox=(453, 121)  size=25x60
+  Summary: Orange:5
+
+[16:37:22.733] Frame #36 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=36x58
+  [4] Orange               conf=0.82  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x60
+  Summary: Orange:5
+
+[16:37:22.908] Frame #37 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=36x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.59  bbox=(452, 122)  size=25x60
+  Summary: Orange:5
+
+[16:37:23.111] Frame #38 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=36x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:23.331] Frame #39 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=34x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 176)  size=36x59
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=23x59
+  Summary: Orange:5
+
+[16:37:23.539] Frame #40 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x49
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.81  bbox=(384, 174)  size=36x62
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=23x59
+  Summary: Orange:5
+
+[16:37:23.716] Frame #41 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=34x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 176)  size=36x59
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:23.931] Frame #42 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=36x60
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:24.127] Frame #43 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(384, 175)  size=36x61
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:24.342] Frame #44 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x49
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:24.555] Frame #45 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:24.759] Frame #46 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:24.923] Frame #47 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x49
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.84  bbox=(384, 176)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:25.137] Frame #48 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x49
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(384, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:25.356] Frame #49 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(384, 175)  size=36x60
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:25.530] Frame #50 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x49
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.81  bbox=(384, 174)  size=36x63
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:25.753] Frame #51 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.84  bbox=(384, 175)  size=36x60
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:25.917] Frame #52 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 176)  size=36x59
+  [5] Orange               conf=0.58  bbox=(453, 121)  size=25x60
+  Summary: Orange:5
+
+[16:37:26.142] Frame #53 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.88  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:26.345] Frame #54 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x61
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:26.518] Frame #55 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.88  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:26.770] Frame #56 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(385, 175)  size=36x60
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:26.929] Frame #57 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.81  bbox=(384, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:27.160] Frame #58 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=36x59
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:27.361] Frame #59 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 176)  size=36x59
+  [5] Orange               conf=0.59  bbox=(453, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:27.555] Frame #60 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(384, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=24x59
+  Summary: Orange:5
+
+[16:37:27.754] Frame #61 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.86  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(384, 176)  size=36x59
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:27.963] Frame #62 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 176)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:28.157] Frame #63 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(429, 183)  size=38x58
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 176)  size=36x59
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x59
+  Summary: Orange:5
+
+[16:37:28.355] Frame #64 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 184)  size=38x57
+  [2] Orange               conf=0.88  bbox=(409, 107)  size=34x51
+  [3] Orange               conf=0.87  bbox=(384, 177)  size=36x58
+  [4] Orange               conf=0.85  bbox=(447, 122)  size=37x57
+  [5] Orange               conf=0.64  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:28.565] Frame #65 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 184)  size=38x57
+  [2] Orange               conf=0.88  bbox=(409, 107)  size=34x51
+  [3] Orange               conf=0.85  bbox=(384, 177)  size=36x58
+  [4] Orange               conf=0.85  bbox=(447, 122)  size=37x57
+  [5] Orange               conf=0.63  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:28.772] Frame #66 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 184)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 107)  size=34x51
+  [3] Orange               conf=0.85  bbox=(384, 176)  size=36x58
+  [4] Orange               conf=0.85  bbox=(447, 122)  size=37x57
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:28.983] Frame #67 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 107)  size=34x50
+  [3] Orange               conf=0.85  bbox=(384, 176)  size=37x58
+  [4] Orange               conf=0.85  bbox=(447, 122)  size=37x57
+  [5] Orange               conf=0.61  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:29.166] Frame #68 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 107)  size=34x50
+  [3] Orange               conf=0.87  bbox=(384, 176)  size=37x58
+  [4] Orange               conf=0.84  bbox=(447, 122)  size=37x57
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:29.374] Frame #69 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.84  bbox=(384, 175)  size=37x60
+  [4] Orange               conf=0.84  bbox=(447, 121)  size=37x57
+  [5] Orange               conf=0.58  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:29.573] Frame #70 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.84  bbox=(384, 176)  size=37x59
+  [4] Orange               conf=0.84  bbox=(447, 122)  size=37x57
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:29.761] Frame #71 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.84  bbox=(384, 175)  size=37x60
+  [4] Orange               conf=0.84  bbox=(447, 122)  size=37x58
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:29.966] Frame #72 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.84  bbox=(447, 121)  size=37x57
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=37x60
+  [5] Orange               conf=0.58  bbox=(452, 121)  size=24x58
+  Summary: Orange:5
+
+[16:37:30.165] Frame #73 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x50
+  [3] Orange               conf=0.84  bbox=(447, 121)  size=37x57
+  [4] Orange               conf=0.84  bbox=(384, 175)  size=37x60
+  [5] Orange               conf=0.57  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:30.383] Frame #74 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.84  bbox=(447, 121)  size=37x57
+  [4] Orange               conf=0.84  bbox=(384, 175)  size=37x60
+  [5] Orange               conf=0.57  bbox=(452, 121)  size=24x58
+  Summary: Orange:5
+
+[16:37:30.592] Frame #75 — 5 object(s) detected
+  [1] Orange               conf=0.92  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=35x50
+  [3] Orange               conf=0.84  bbox=(447, 121)  size=37x58
+  [4] Orange               conf=0.84  bbox=(384, 175)  size=37x60
+  [5] Orange               conf=0.59  bbox=(452, 121)  size=25x58
+  Summary: Orange:5
+
+[16:37:30.779] Frame #76 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 183)  size=38x58
+  [2] Orange               conf=0.90  bbox=(409, 105)  size=35x50
+  [3] Orange               conf=0.85  bbox=(447, 121)  size=37x58
+  [4] Orange               conf=0.80  bbox=(384, 174)  size=37x63
+  [5] Orange               conf=0.61  bbox=(452, 120)  size=24x58
+  Summary: Orange:5
+
+[16:37:30.984] Frame #77 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.90  bbox=(408, 106)  size=35x49
+  [3] Orange               conf=0.85  bbox=(447, 121)  size=37x58
+  [4] Orange               conf=0.81  bbox=(384, 174)  size=37x61
+  [5] Orange               conf=0.61  bbox=(453, 121)  size=24x58
+  Summary: Orange:5
+
+[16:37:31.176] Frame #78 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(408, 106)  size=35x49
+  [3] Orange               conf=0.85  bbox=(447, 121)  size=37x58
+  [4] Orange               conf=0.83  bbox=(384, 175)  size=37x60
+  [5] Orange               conf=0.60  bbox=(453, 121)  size=24x58
+  Summary: Orange:5
+
+[16:37:31.383] Frame #79 — 5 object(s) detected
+  [1] Orange               conf=0.91  bbox=(430, 183)  size=38x57
+  [2] Orange               conf=0.89  bbox=(409, 106)  size=34x49
+  [3] Orange               conf=0.85  bbox=(448, 121)  size=37x58
+  [4] Orange               conf=0.82  bbox=(384, 175)  size=36x61
+  [5] Orange               conf=0.60  bbox=(452, 121)  size=24x58
+  Summary: Orange:5
+
+[16:37:31.569] Frame #80 — 4 object(s) detected
+  [1] Orange               conf=0.90  bbox=(485, 118)  size=38x54
+  [2] Orange               conf=0.89  bbox=(444, 106)  size=35x52
+  [3] Orange               conf=0.88  bbox=(465, 183)  size=38x58
+  [4] Orange               conf=0.80  bbox=(419, 176)  size=36x58
+  Summary: Orange:4
+
+[16:37:31.851] Frame #81 — 8 object(s) detected
+  [1] Orange               conf=0.94  bbox=(553, 116)  size=45x60
+  [2] Orange               conf=0.92  bbox=(534, 183)  size=44x60
+  [3] Orange               conf=0.91  bbox=(508, 103)  size=39x56
+  [4] Orange               conf=0.84  bbox=(483, 176)  size=40x56
+  [5] Orange               conf=0.79  bbox=(574, 159)  size=45x51
+  [6] Orange               conf=0.66  bbox=(601, 136)  size=43x64
+  [7] Orange               conf=0.57  bbox=(556, 132)  size=37x93
+  [8] Orange               conf=0.51  bbox=(583, 139)  size=58x86
+  Summary: Orange:8
+
+[16:37:32.037] Frame #82 — 4 object(s) detected
+  [1] Orange               conf=0.95  bbox=(554, 176)  size=46x62
+  [2] Orange               conf=0.94  bbox=(611, 184)  size=55x66
+  [3] Orange               conf=0.92  bbox=(583, 97)  size=42x60
+  [4] Orange               conf=0.71  bbox=(625, 112)  size=29x70
+  Summary: Orange:4
+
+[16:37:32.998] Frame #83 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.92  bbox=(52, 108)  size=103x215
+  Summary: Fast_Sign:1
+
+[16:37:33.210] Frame #84 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.91  bbox=(83, 109)  size=167x213
+  Summary: Fast_Sign:1
+
+[16:37:33.419] Frame #85 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.93  bbox=(119, 113)  size=222x203
+  Summary: Fast_Sign:1
+
+[16:37:33.633] Frame #86 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.93  bbox=(191, 113)  size=202x200
+  Summary: Fast_Sign:1
+
+[16:37:33.849] Frame #87 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.94  bbox=(255, 115)  size=188x196
+  Summary: Fast_Sign:1
+
+[16:37:34.044] Frame #88 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.94  bbox=(317, 116)  size=185x194
+  Summary: Fast_Sign:1
+
+[16:37:34.248] Frame #89 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.92  bbox=(379, 113)  size=189x200
+  Summary: Fast_Sign:1
+
+[16:37:34.419] Frame #90 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.93  bbox=(444, 112)  size=201x203
+  Summary: Fast_Sign:1
+
+[16:37:34.637] Frame #91 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.89  bbox=(513, 111)  size=221x209
+  Summary: Fast_Sign:1
+
+[16:37:34.850] Frame #92 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.55  bbox=(552, 109)  size=174x214
+  Summary: Fast_Sign:1
+
+[16:37:35.049] Frame #93 — 1 object(s) detected
+  [1] Fast_Sign            conf=0.91  bbox=(586, 109)  size=108x217
+  Summary: Fast_Sign:1
+
+[16:37:37.268] Frame #94 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.62  bbox=(79, 132)  size=78x136
+  Summary: Slow_Sign:1
+
+[16:37:37.444] Frame #95 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.51  bbox=(148, 133)  size=66x141
+  Summary: Slow_Sign:1
+
+[16:37:40.648] Frame #96 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.64  bbox=(442, 114)  size=83x195
+  Summary: Slow_Sign:1
+
+[16:37:40.843] Frame #97 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.57  bbox=(443, 115)  size=82x191
+  Summary: Slow_Sign:1
+
+[16:37:41.064] Frame #98 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.54  bbox=(446, 112)  size=85x198
+  Summary: Slow_Sign:1
+
+[16:37:41.244] Frame #99 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.56  bbox=(450, 119)  size=86x181
+  Summary: Slow_Sign:1
+
+[16:37:41.455] Frame #100 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.69  bbox=(454, 110)  size=92x201
+  Summary: Slow_Sign:1
+
+[16:37:41.634] Frame #101 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.74  bbox=(455, 109)  size=93x202
+  Summary: Slow_Sign:1
+
+[16:37:41.834] Frame #102 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.67  bbox=(452, 108)  size=94x205
+  Summary: Slow_Sign:1
+
+[16:37:42.024] Frame #103 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.73  bbox=(390, 110)  size=92x202
+  Summary: Slow_Sign:1
+
+[16:37:42.258] Frame #104 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.77  bbox=(329, 124)  size=88x172
+  Summary: Slow_Sign:1
+
+[16:37:42.442] Frame #105 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.72  bbox=(269, 126)  size=86x173
+  Summary: Slow_Sign:1
+
+[16:37:42.645] Frame #106 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.77  bbox=(208, 124)  size=88x175
+  Summary: Slow_Sign:1
+
+[16:37:42.859] Frame #107 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.75  bbox=(141, 110)  size=95x203
+  Summary: Slow_Sign:1
+
+[16:37:43.061] Frame #108 — 1 object(s) detected
+  [1] Slow_Sign            conf=0.75  bbox=(69, 108)  size=105x208
+  Summary: Slow_Sign:1
+
+[16:38:08.233] Frame #109 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.87  bbox=(30, 111)  size=61x222
+  Summary: Stop_Sign:1
+
+[16:38:08.437] Frame #110 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.94  bbox=(65, 113)  size=129x225
+  Summary: Stop_Sign:1
+
+[16:38:08.649] Frame #111 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.97  bbox=(96, 112)  size=188x225
+  Summary: Stop_Sign:1
+
+[16:38:08.850] Frame #112 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.97  bbox=(158, 112)  size=181x224
+  Summary: Stop_Sign:1
+
+[16:38:09.052] Frame #113 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.97  bbox=(218, 112)  size=175x223
+  Summary: Stop_Sign:1
+
+[16:38:09.253] Frame #114 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.97  bbox=(277, 112)  size=178x223
+  Summary: Stop_Sign:1
+
+[16:38:09.442] Frame #115 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.97  bbox=(340, 112)  size=180x224
+  Summary: Stop_Sign:1
+
+[16:38:09.646] Frame #116 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.95  bbox=(360, 112)  size=178x224
+  Summary: Stop_Sign:1
+
+[16:38:09.852] Frame #117 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.95  bbox=(360, 112)  size=178x224
+  Summary: Stop_Sign:1
+
+[16:38:10.075] Frame #118 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.95  bbox=(360, 112)  size=178x224
+  Summary: Stop_Sign:1
+
+[16:38:10.253] Frame #119 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.95  bbox=(360, 112)  size=177x224
+  Summary: Stop_Sign:1
+
+[16:38:10.458] Frame #120 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.95  bbox=(360, 112)  size=178x224
+  Summary: Stop_Sign:1
+
+[16:38:10.655] Frame #121 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.96  bbox=(329, 112)  size=187x224
+  Summary: Stop_Sign:1
+
+[16:38:10.859] Frame #122 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.96  bbox=(268, 112)  size=186x224
+  Summary: Stop_Sign:1
+
+[16:38:11.057] Frame #123 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.95  bbox=(204, 113)  size=192x225
+  Summary: Stop_Sign:1
+
+[16:38:11.258] Frame #124 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.95  bbox=(134, 114)  size=210x228
+  Summary: Stop_Sign:1
+
+[16:38:11.458] Frame #125 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.97  bbox=(88, 115)  size=175x230
+  Summary: Stop_Sign:1
+
+[16:38:11.663] Frame #126 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.94  bbox=(55, 118)  size=110x235
+  Summary: Stop_Sign:1
+
+[16:38:11.853] Frame #127 — 1 object(s) detected
+  [1] Stop_Sign            conf=0.56  bbox=(17, 109)  size=33x219
+  Summary: Stop_Sign:1
+
+
+============================================================
+  SESSION SUMMARY
+  Ended   : 2026-03-14 16:38:17
+  Frames  : 127
+  Total detections: 456
+
+  Count per class:
+    Fast_Sign            : 11
+    Orange               : 411
+    Slow_Sign            : 15
+    Stop_Sign            : 19
+============================================================
