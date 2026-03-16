@@ -17,6 +17,20 @@
   <buildtool_depend>ament_cmake_python</buildtool_depend>
   <depend>rclpy</depend>
 
+  <!-- Nav2 dependencies -->
+  <exec_depend>nav2_bringup</exec_depend>
+  <exec_depend>nav2_bt_navigator</exec_depend>
+  <exec_depend>nav2_controller</exec_depend>
+  <exec_depend>nav2_planner</exec_depend>
+  <exec_depend>nav2_behaviors</exec_depend>
+  <exec_depend>nav2_smoother</exec_depend>
+  <exec_depend>nav2_waypoint_follower</exec_depend>
+  <exec_depend>nav2_velocity_smoother</exec_depend>
+  <exec_depend>nav2_lifecycle_manager</exec_depend>
+  <exec_depend>nav2_common</exec_depend>
+  <exec_depend>tf2_ros</exec_depend>
+  <exec_depend>explore_lite</exec_depend>
+
   <export>
     <build_type>ament_cmake</build_type>
     <!-- Not sure if the following lines are ROS1 dependent -->
